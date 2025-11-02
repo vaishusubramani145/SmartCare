@@ -21,6 +21,11 @@ It simplifies healthcare management with secure logins 🔐, smart scheduling �
 👉 [SmartCare on Figma](https://www.figma.com/make/Uhuysom3kCkAlx2AchN0Sd/Smart-Healthcare-Appointment-System?node-id=0-1&p=f&t=LlhQqGqpfOyeXBSb-0&fullscreen=1)
 
 *(Replace the link above with your actual Figma link)*
+# 🎥 Project Presentation (PPT)
+📂 **View Full Project PPT here:**  
+👉 [SmartCare Presentation on Google Drive](# 🎥 Project Presentation (PPT)
+📂 **View Full Project PPT here:**  
+👉 [SmartCare Presentation on Google Drive](https://docs.google.com/presentation/d/174q3w4clpLHTKqmvOI6ljjGEAwjGhDqM/edit?usp=sharing&ouid=108108456499271446162&rtpof=true&sd=true)
 
 ---
 
